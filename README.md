@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammadamin Pulatov</h1>
 <h3 align="center">💻 A passionate Full-Stack Software Developer from Uzbekistan</h3>
-<code><b>[Website](https://pdpecosystem.uz/)</b></code>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadaminpulatov&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadaminpulatov" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadaminpulatov" alt="muhammadaminpulatov" /></a> </p>
