@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadaminpulatov" alt="muhammadaminpulatov" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 Current Work **Building smart web applications with **Next.js, Django, FastAPI, and AI integrations.Experimenting with IoT & Face ID integrations**
 
 - 👯 Collaboration & Help **Open to collaborate on **AI-driven applications, Web3, and high-scale SaaS projects. Looking for mentorship & teamwork in system design and scalable backend architectures**
