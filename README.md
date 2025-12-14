@@ -44,8 +44,9 @@
 - **Arduino** – IoT va embedded systems ⚡  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,angular,nodejs,express,django,fastapi,flask,python,arduino,tailwind,bootstrap,git,github,docker,postman,linux,kali,figma,vercel,graphql,redux,nginx,flutter,heroku,postgresql,mongodb,aws" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,angular,nodejs,express,django,fastapi,flask,python,cplusplus,arduino,tailwind,bootstrap,materialui,git,github,docker,postman,linux,kali,figma,netlify,vercel,graphql,redux,nginx,flutter,heroku,postgresql,mongodb,aws" alt="Tech Stack" />
 </p>
+
 
 
 ---
