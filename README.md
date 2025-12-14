@@ -1,64 +1,75 @@
 <h1 align="center">Hi 👋, I'm Muhammadamin Pulatov</h1>
-<h3 align="center">💻 Full-Stack Developer | AI & IoT Enthusiast | Uzbekistan</h3>
+<h3 align="center">💻 Full-Stack Developer | AI & IoT Enthusiast | CEO & Founder | Startup Innovator</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadaminpulatov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=muhammadaminpulatov&theme=gruvbox" alt="Trophies"/>
-  </a>
-</p>
+---
+
+### 🔭 Current Ventures & Projects
+- Founder & CEO of:  
+  - **[PDPEcosystem](https://pdpecosystem.uz)**  
+  - **[POSSS](https://posss.uz)**  
+  - **[VIPDev](https://vipdev.uz)**  
+  - **[PDPEXAM](https://pdpexam.uz)**  
+  - **[PDPTEST](https://pdptest.uz)**  
+- Building **AI-powered, Full-Stack, and IoT-enabled web solutions**  
+- Developing upcoming **innovative startups and smart applications**
 
 ---
 
-### 🔭 Current Work
-Building smart web applications with **Next.js, Django, FastAPI**, and **AI integrations**.  
-Experimenting with **IoT & Face ID solutions**.  
+### 🌱 Skills & Expertise
+#### Frontend
+- **HTML, CSS, SASS** – Zamonaviy va responsiv sahifalar 🌐  
+- **JavaScript, TypeScript** – Dinamik va interaktiv ilovalar 🔧  
+- **React, Vue** – Murakkab interfeyslarni samarali boshqarish ⚛️  
+- **Bootstrap, Tailwind CSS, Material UI, GSAP** – Vizual dizaynlarni tez va oson yaratish 💡  
 
-### 👯 Collaboration & Mentorship
-Open to collaborate on **AI-powered applications, Web3, and scalable SaaS projects**.  
-Seeking mentorship and teamwork in **system design & backend architecture**.
+#### Backend
+- **Node.js, Express** – Asinxron va tezkor serverlar 🔗  
+- **Next.js** – Fullstack ilovalar uchun yuqori samaradorlik 🚀  
+- **Django, FastAPI (Python)** – Xavfsiz va tezkor APIlar 🐍  
 
-### 🌱 Learning
-Advanced **DevOps, AWS, Docker, Kubernetes**, and **AI/ML for real-world applications**.
+#### Ma’lumot boshqarish & DevOps
+- **Git, GitHub** – Kodlarni boshqarish va jamoa bilan ishlash 🌟  
+- **Docker** – Konteynerizatsiya va deploy 🐳  
+- **Postman** – API testlash va debugging 🛠  
+- **Linux, Kali Linux** – Server va xavfsizlik muhiti 🖥  
 
-### 💬 Ask Me About
-React, Next.js, Vue, GSAP, Django, FastAPI, CI/CD, Arduino, Linux, and more.
+#### Qo‘shimcha texnologiyalar
+- **Python** – Telegram botlar, AI va avtomatlashtirish 🤖  
+- **C++** – Algoritmlar va ma’lumot tuzilmalari 💻  
+- **RESTful API, WebSockets** – Real-time va samarali ma’lumot uzatish 🌐  
+- **Arduino** – IoT va embedded systems ⚡  
 
-### 📫 Reach Me
-[muhammadamin.pvlatov@gmail.com](mailto:muhammadamin.pvlatov@gmail.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,angular,nodejs,express,django,fastapi,flask,python,cplusplus,arduino,tailwind,bootstrap,materialui,git,github,docker,postman,linux,kali,figma,vercel,graphql,redux,nginx,flutter,heroku,postgresql,mongodb,aws,opencv,opencvpython,tensorflow,pytorch" alt="Tech Stack" />
+</p>
+
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://instagram.com/web.site.uz" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" />
-  </a>
-</p>
+### 🌱 Kelajak rejalar
+- Pythonni chuqur o‘rganib, kuchli backend dasturchi bo‘lish 🎯  
+- Yangi texnologiyalarni o‘zlashtirib, Fullstack va AI/IoT bo‘yicha mutaxassislikni oshirish 📈  
+- Startup loyihalarini rivojlantirish va innovatsion yechimlar yaratish 🚀  
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,nodejs,figma,vercel" alt="Core Tech"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,redux,jquery,tailwind,bootstrap,vscode,materialui" alt="Tools & Frameworks"/>
-</p>
+### 💡 Falsafam
+> “Muammo bormi, uni hal qilish kerak.”  
+> Qiyinchiliklar – o‘sish imkoniyatidir. Hech qachon qo‘rqmaslik va afsuslanmaslik – mening hayotiy qoidam 🛡️
 
+---
+
+### 📫 Contact & Socials
 <p align="center">
-  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" /></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" /></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" /></a>
-  <a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" width="40" /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" /></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></a>
+  <a href="mailto:muhammadamin.pvlatov@gmail.com" target="_blank">Email</a> •
+  <a href="mailto:m.pulatov.icloud.com" target="_blank">iCloud</a> •
+  <a href="https://t.me/Muhammadamin_Pulatov" target="_blank">Telegram</a> •
+  <a href="https://instagram.com/muhammadamin.ceo" target="_blank">Instagram CEO</a> •
+  <a href="https://instagram.com/web.site.uz" target="_blank">Instagram Web</a>
 </p>
 
 ---
@@ -67,10 +78,6 @@ React, Next.js, Vue, GSAP, Django, FastAPI, CI/CD, Arduino, Linux, and more.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadaminpulatov&show_icons=true&theme=gruvbox" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadaminpulatov&layout=compact&theme=gruvbox" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadaminpulatov&theme=gruvbox" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
