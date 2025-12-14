@@ -21,46 +21,44 @@
 
 ### 🌱 Skills & Expertise
 #### Frontend
-- **HTML, CSS, SASS** – Zamonaviy va responsiv sahifalar 🌐  
-- **JavaScript, TypeScript** – Dinamik va interaktiv ilovalar 🔧  
-- **React, Vue** – Murakkab interfeyslarni samarali boshqarish ⚛️  
-- **Bootstrap, Tailwind CSS, Material UI, GSAP** – Vizual dizaynlarni tez va oson yaratish 💡  
+- **HTML, CSS, SASS** – Modern and responsive web pages 🌐  
+- **JavaScript, TypeScript** – Dynamic and interactive applications 🔧  
+- **React, Vue** – Efficiently managing complex interfaces ⚛️  
+- **Bootstrap, Tailwind CSS, Material UI, GSAP** – Rapid and visually appealing designs 💡  
 
 #### Backend
-- **Node.js, Express** – Asinxron va tezkor serverlar 🔗  
-- **Next.js** – Fullstack ilovalar uchun yuqori samaradorlik 🚀  
-- **Django, FastAPI (Python)** – Xavfsiz va tezkor APIlar 🐍  
+- **Node.js, Express** – Asynchronous and high-performance servers 🔗  
+- **Next.js** – Optimized full-stack applications 🚀  
+- **Django, FastAPI (Python)** – Secure and fast APIs 🐍  
 
-#### Ma’lumot boshqarish & DevOps
-- **Git, GitHub** – Kodlarni boshqarish va jamoa bilan ishlash 🌟  
-- **Docker** – Konteynerizatsiya va deploy 🐳  
-- **Postman** – API testlash va debugging 🛠  
-- **Linux, Kali Linux** – Server va xavfsizlik muhiti 🖥  
+#### Data Management & DevOps
+- **Git, GitHub** – Version control and team collaboration 🌟  
+- **Docker** – Containerization and deployment 🐳  
+- **Postman** – API testing and debugging 🛠  
+- **Linux, Kali Linux** – Server and security environments 🖥  
 
-#### Qo‘shimcha texnologiyalar
-- **Python** – Telegram botlar, AI va avtomatlashtirish 🤖  
-- **C++** – Algoritmlar va ma’lumot tuzilmalari 💻  
-- **RESTful API, WebSockets** – Real-time va samarali ma’lumot uzatish 🌐  
-- **Arduino** – IoT va embedded systems ⚡  
+#### Additional Technologies
+- **Python** – AI integrations, automation, and Telegram bots 🤖  
+- **C++** – Algorithms and data structures 💻  
+- **RESTful API, WebSockets** – Real-time and efficient data transfer 🌐  
+- **Arduino** – IoT and embedded systems ⚡  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,angular,nodejs,express,django,fastapi,flask,python,cplusplus,arduino,tailwind,bootstrap,materialui,git,github,docker,postman,linux,kali,figma,netlify,vercel,graphql,redux,nginx,flutter,heroku,postgresql,mongodb,aws" alt="Tech Stack" />
 </p>
 
+---
 
+### 🌱 Future Plans
+- Master Python to become a strong backend developer 🎯  
+- Learn new technologies to enhance Full-Stack, AI, and IoT expertise 📈  
+- Develop startups and create innovative solutions 🚀  
 
 ---
 
-### 🌱 Kelajak rejalar
-- Pythonni chuqur o‘rganib, kuchli backend dasturchi bo‘lish 🎯  
-- Yangi texnologiyalarni o‘zlashtirib, Fullstack va AI/IoT bo‘yicha mutaxassislikni oshirish 📈  
-- Startup loyihalarini rivojlantirish va innovatsion yechimlar yaratish 🚀  
-
----
-
-### 💡 Falsafam
-> “Muammo bormi, uni hal qilish kerak.”  
-> Qiyinchiliklar – o‘sish imkoniyatidir. Hech qachon qo‘rqmaslik va afsuslanmaslik – mening hayotiy qoidam 🛡️
+### 💡 Philosophy
+> “If there is a problem, it needs to be solved.”  
+> Challenges are opportunities for growth. Never fear or regret — this is my life principle 🛡️
 
 ---
 
