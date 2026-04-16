@@ -9,7 +9,8 @@
 
 ### 🔭 Current Ventures & Projects
 - Founder & CEO of:  
-  - **[PDPEcosystem](https://pdpecosystem.uz)**  
+  - **[PDPEcosystem](https://pdpecosystem.uz)**
+  - **[solving.uz](https://solving.uz)**  
   - **[POSSS](https://posss.uz)**  
   - **[VIPDev](https://vipdev.uz)**  
   - **[PDPEXAM](https://pdpexam.uz)**  
