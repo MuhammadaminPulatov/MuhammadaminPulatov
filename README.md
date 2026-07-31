@@ -57,21 +57,6 @@ superpower :  Web + AI + IoT under one roof ⚡
 
 ---
 
-## 🔥 Latest Projects
-
-<div align="center">
-
-<a href="https://github.com/MuhammadaminPulatov/ArzUz">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadaminPulatov&repo=ArzUz&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/MuhammadaminPulatov/Darachi.app">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadaminPulatov&repo=Darachi.app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-
-</div>
-
----
-
 ## 🚀 Project Portfolio
 
 <table>
@@ -86,7 +71,7 @@ Mahalla aholisi muammolarini Telegram orqali mahalliy hokimiyatga yetkazish tizi
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Bot-2CA5E0?style=flat-square&logo=telegram)
-![AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
 [![Live](https://img.shields.io/badge/🌐_Live-arzuz.vercel.app-00b894?style=flat-square)](https://arzuz.vercel.app)
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/MuhammadaminPulatov/ArzUz)
@@ -142,7 +127,7 @@ Talabalar uchun zamonaviy onlayn imtihon va test platforma. Real-time natijalar,
 ### 🎓 PDPEcosystem
 > EdTech Ecosystem
 
-PDP ta'lim ekotizimi — kurslar, sertifikatlar, hamjamiyat, va ko'p narsa. O'zbekistonning yetakchi EdTech platformasi.
+PDP ta'lim ekotizimi — kurslar, sertifikatlar, hamjamiyat. O'zbekistonning yetakchi EdTech platformasi.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -169,7 +154,7 @@ Premium IT yechimlar agentligi. Web, mobile, AI loyihalar uchun end-to-end devel
 </table>
 
 <details>
-<summary><b>📦 Boshqa loyihalar ham bor (+4)</b></summary>
+<summary><b>📦 Boshqa loyihalar (+4)</b></summary>
 
 <br/>
 
@@ -177,8 +162,8 @@ Premium IT yechimlar agentligi. Web, mobile, AI loyihalar uchun end-to-end devel
 |:--:|--------|--------|------|
 | 📝 | **PDPEXAM** | Mock imtihon platformasi | [![Live](https://img.shields.io/badge/LIVE-e17055?style=flat-square)](https://pdpexam.uz) |
 | ✅ | **PDPTEST** | Online test xizmati | [![Live](https://img.shields.io/badge/LIVE-00cec9?style=flat-square)](https://pdptest.uz) |
-| 🎬 | **istream.uz** | Streaming platforma (MVP→v2) | Next.js · Monorepo |
-| 📱 | **Hisobchi App** | Moliyaviy hisobchi (React Native) | Expo · Mobile |
+| 🎬 | **istream.uz** | Streaming platforma MVP→v2 | Next.js · Monorepo |
+| 📱 | **Hisobchi App** | Moliyaviy hisobchi | React Native · Expo |
 
 </details>
 
@@ -231,8 +216,8 @@ Premium IT yechimlar agentligi. Web, mobile, AI loyihalar uchun end-to-end devel
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadaminPulatov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=MuhammadaminPulatov&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=58A6FF&fire=E8892B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadaminPulatov&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadaminPulatov&theme=tokyonight&utcOffset=5" />
 
 </div>
 
@@ -246,22 +231,6 @@ Premium IT yechimlar agentligi. Web, mobile, AI loyihalar uchun end-to-end devel
 <div align="center">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadaminPulatov&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadaminPulatov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=MuhammadaminPulatov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -298,41 +267,6 @@ Premium IT yechimlar agentligi. Web, mobile, AI loyihalar uchun end-to-end devel
 </picture>
 
 </div>
-
-<details>
-<summary><b>⚙️ Snake animatsiyasini yoqish — GitHub Action</b></summary>
-
-<br/>
-
-`.github/workflows/snake.yml` fayl yarating, keyin **Actions** bo'limida `Run workflow` tugmasini bosing:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
