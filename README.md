@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammadamin%20Pulatov&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Turning%20Ideas%20Into%20Reality%20%E2%80%94%20One%20Line%20at%20a%20Time&descAlignY=60&descSize=19" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=230&section=header&text=Muhammadamin%20Pulatov&fontSize=54&fontColor=fff&animation=twinkling&fontAlignY=38&desc=%F0%9F%87%BA%F0%9F%87%BF%20Tashkent%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20%C2%B7%20IoT%20%C2%B7%20Founder&descAlignY=60&descSize=17" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=660&height=70&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Engineer+%F0%9F%A4%96;Startup+Founder+%26+CEO+%F0%9F%8F%A2;IoT+%26+Arduino+Enthusiast+%E2%9A%A1;No+Fear.+No+Regret.+Just+Build.+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=75&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Engineer+%F0%9F%A4%96;Startup+Founder+%26+CEO+%F0%9F%8F%A2;IoT+%26+Arduino+Enthusiast+%E2%9A%A1;6+Live+Startups+in+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;No+Fear.+No+Regret.+Just+Build.+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
@@ -12,9 +12,10 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Gmail-muhammadamin.pvlatov%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadamin.pvlatov@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-Muhammadamin__Pulatov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Muhammadamin_Pulatov)
-[![Instagram](https://img.shields.io/badge/Instagram-muhammadamin.ceo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhammadamin.ceo)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadamin.pvlatov@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Muhammadamin_Pulatov)
+[![Instagram CEO](https://img.shields.io/badge/Instagram%20CEO-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhammadamin.ceo)
+[![Instagram Dev](https://img.shields.io/badge/Instagram%20Dev-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/web.site.uz)
 
 </div>
 
@@ -23,31 +24,32 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name     : Muhammadamin Pulatov
-location : Tashkent, Uzbekistan 🇺🇿
-role     : Full-Stack Developer · AI Engineer · CEO & Founder
-focus    : AI-powered SaaS · EdTech · IoT · Web Platforms
-startups : PDPEcosystem · solving.uz · POSSS · VIPDev · PDPEXAM · PDPTEST
-open_to  : Collaboration · Consulting · Joint Ventures
-motto    : "If there is a problem — it needs to be solved."
+name       :  Muhammadamin Pulatov
+location   :  Tashkent, Uzbekistan 🇺🇿
+role       :  Full-Stack Developer · AI/ML Engineer · CEO & Founder
+passion    :  Turning real problems into deployed products — fast
+startups   :  ArzUz · Darachi.app · POSSS · solving.uz · PDPEcosystem · VIPDev
+open_to    :  Collaboration · Consulting · Co-Founding
+philosophy :  "If there is a problem — it needs to be solved."
+superpower :  Web + AI + IoT under one roof ⚡
 ```
 
 <table>
 <tr>
 <td width="50%">
 
-- 🔭 **Building:** AI-powered SaaS & EdTech platforms
+- 🔭 **Building:** AI SaaS · EdTech · Community Platforms
 - 🏢 **CEO of:** 6 active startups in Uzbekistan
-- 💡 **Passion:** From idea to deployed product — fast
-- ⚡ **Superpower:** Web · AI · IoT under one roof
+- 🤖 **AI Stack:** LangChain · YOLO · FastAPI · RAG
+- ⚡ **Hardware:** Arduino · IoT embedded systems
 
 </td>
 <td width="50%">
 
-- 🌱 **Learning:** Advanced ML, Cloud Architecture
-- 💬 **Ask me about:** Full-Stack, AI, Startups, IoT
-- 🎯 **Mission:** Build products that solve real problems
-- ☕ **Fuel:** Chai + Clean Code + Late Nights
+- 🌱 **Leveling up:** Cloud Architecture · Advanced ML
+- 💬 **Talk to me:** Full-Stack · AI · Startups · IoT
+- 🎯 **Mission:** Build products that matter
+- ☕ **Stack overflow:** Chai + Code + 2AM sessions
 
 </td>
 </tr>
@@ -55,20 +57,130 @@ motto    : "If there is a problem — it needs to be solved."
 
 ---
 
-## 🏢 My Startups
+## 🔥 Latest Projects
 
 <div align="center">
 
-| | Startup | Description | Stack | Status |
-|:---:|---------|-------------|-------|--------|
-| 🎓 | **[PDPEcosystem](https://pdpecosystem.uz)** | EdTech ecosystem platform | Next.js · Node.js · AI | [![Live](https://img.shields.io/badge/LIVE-00b894?style=flat-square&logo=vercel&logoColor=white)](https://pdpecosystem.uz) |
-| 🧠 | **[solving.uz](https://solving.uz)** | Online exam & testing platform | React · Express · MongoDB | [![Live](https://img.shields.io/badge/LIVE-6c5ce7?style=flat-square&logo=vercel&logoColor=white)](https://solving.uz) |
-| 🏪 | **[POSSS](https://posss.uz)** | AI-powered POS system | React · FastAPI · AI | [![Live](https://img.shields.io/badge/LIVE-0984e3?style=flat-square&logo=vercel&logoColor=white)](https://posss.uz) |
-| 💼 | **[VIPDev](https://vipdev.uz)** | IT solutions & dev agency | Next.js · Tailwind | [![Live](https://img.shields.io/badge/LIVE-fd79a8?style=flat-square&logo=vercel&logoColor=white)](https://vipdev.uz) |
-| 📝 | **[PDPEXAM](https://pdpexam.uz)** | Exam preparation platform | React · Node.js | [![Live](https://img.shields.io/badge/LIVE-e17055?style=flat-square&logo=vercel&logoColor=white)](https://pdpexam.uz) |
-| ✅ | **[PDPTEST](https://pdptest.uz)** | Online testing service | Vue · Django | [![Live](https://img.shields.io/badge/LIVE-00cec9?style=flat-square&logo=vercel&logoColor=white)](https://pdptest.uz) |
+<a href="https://github.com/MuhammadaminPulatov/ArzUz">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadaminPulatov&repo=ArzUz&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/MuhammadaminPulatov/Darachi.app">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadaminPulatov&repo=Darachi.app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+</a>
 
 </div>
+
+---
+
+## 🚀 Project Portfolio
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🏘️ ArzUz
+> Community civic platform
+
+Mahalla aholisi muammolarini Telegram orqali mahalliy hokimiyatga yetkazish tizimi. AI tahlil, xarita, foto yuklash.
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Telegram](https://img.shields.io/badge/Bot-2CA5E0?style=flat-square&logo=telegram)
+![AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+
+[![Live](https://img.shields.io/badge/🌐_Live-arzuz.vercel.app-00b894?style=flat-square)](https://arzuz.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/MuhammadaminPulatov/ArzUz)
+
+</td>
+<td width="33%" valign="top">
+
+### 🩺 Darachi.app
+> Healthcare web application
+
+O'zbekiston uchun zamonaviy tibbiy platforma. Bemorlar va shifokorlarni bog'lovchi raqamli sog'liqni saqlash ekotizimi.
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+[![Live](https://img.shields.io/badge/🌐_Live-davrachiuz.vercel.app-6c5ce7?style=flat-square)](https://davrachiuz.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/MuhammadaminPulatov/Darachi.app)
+
+</td>
+<td width="33%" valign="top">
+
+### 🏪 POSSS.UZ
+> AI-Powered POS System
+
+Sun'iy intellekt bilan kuchaytirilgan savdo nuqtasi boshqaruv tizimi. Dark mode, ko'p tilli, real-vaqt analitika.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Powered-FF6B6B?style=flat-square&logo=openai&logoColor=white)
+
+[![Live](https://img.shields.io/badge/🌐_Live-posss.uz-0984e3?style=flat-square)](https://posss.uz)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🧠 solving.uz
+> Online Exam Platform
+
+Talabalar uchun zamonaviy onlayn imtihon va test platforma. Real-time natijalar, to'liq tahlil paneli.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+[![Live](https://img.shields.io/badge/🌐_Live-solving.uz-e17055?style=flat-square)](https://solving.uz)
+
+</td>
+<td width="33%" valign="top">
+
+### 🎓 PDPEcosystem
+> EdTech Ecosystem
+
+PDP ta'lim ekotizimi — kurslar, sertifikatlar, hamjamiyat, va ko'p narsa. O'zbekistonning yetakchi EdTech platformasi.
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![AI](https://img.shields.io/badge/AI-4285F4?style=flat-square&logo=google&logoColor=white)
+
+[![Live](https://img.shields.io/badge/🌐_Live-pdpecosystem.uz-00b894?style=flat-square)](https://pdpecosystem.uz)
+
+</td>
+<td width="33%" valign="top">
+
+### 💼 VIPDev.uz
+> IT Agency & Solutions
+
+Premium IT yechimlar agentligi. Web, mobile, AI loyihalar uchun end-to-end development xizmatlari.
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+[![Live](https://img.shields.io/badge/🌐_Live-vipdev.uz-fd79a8?style=flat-square)](https://vipdev.uz)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📦 Boshqa loyihalar ham bor (+4)</b></summary>
+
+<br/>
+
+| | Loyiha | Tavsif | Link |
+|:--:|--------|--------|------|
+| 📝 | **PDPEXAM** | Mock imtihon platformasi | [![Live](https://img.shields.io/badge/LIVE-e17055?style=flat-square)](https://pdpexam.uz) |
+| ✅ | **PDPTEST** | Online test xizmati | [![Live](https://img.shields.io/badge/LIVE-00cec9?style=flat-square)](https://pdptest.uz) |
+| 🎬 | **istream.uz** | Streaming platforma (MVP→v2) | Next.js · Monorepo |
+| 📱 | **Hisobchi App** | Moliyaviy hisobchi (React Native) | Expo · Mobile |
+
+</details>
 
 ---
 
@@ -76,25 +188,40 @@ motto    : "If there is a problem — it needs to be solved."
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
+
 **🌐 Frontend**
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,tailwind,bootstrap&perline=10)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,tailwind,bootstrap&perline=5)](https://skillicons.dev)
+
+</td>
+<td align="center" width="50%">
 
 **⚙️ Backend & APIs**
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,graphql&perline=10)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,graphql&perline=5)](https://skillicons.dev)
 
-**🗄️ Database · DevOps · Cloud**
+</td>
+</tr>
+<tr>
+<td align="center">
 
-[![DevOps](https://skillicons.dev/icons?i=mongodb,postgresql,redis,docker,nginx,linux,aws,vercel,netlify&perline=10)](https://skillicons.dev)
+**🗄️ Database · Cloud · DevOps**
 
-**🤖 AI / ML · IoT**
+[![DevOps](https://skillicons.dev/icons?i=mongodb,postgresql,redis,docker,nginx,linux,aws,vercel&perline=4)](https://skillicons.dev)
 
-[![AI](https://skillicons.dev/icons?i=python,pytorch,tensorflow,arduino&perline=10)](https://skillicons.dev)
+</td>
+<td align="center">
 
-**🔧 Tools**
+**🤖 AI · ML · IoT · Tools**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,figma,postman,vscode,idea&perline=10)](https://skillicons.dev)
+[![AI](https://skillicons.dev/icons?i=python,pytorch,tensorflow,arduino,git,github,figma,postman&perline=4)](https://skillicons.dev)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -104,22 +231,37 @@ motto    : "If there is a problem — it needs to be solved."
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadaminPulatov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadaminPulatov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://streak-stats.demolab.com?user=MuhammadaminPulatov&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=58A6FF&fire=E8892B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" />
 
-<br/>
+</div>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadaminPulatov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadaminPulatov&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadaminPulatov&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadaminPulatov&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadaminPulatov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammadaminPulatov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=MuhammadaminPulatov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -129,13 +271,13 @@ motto    : "If there is a problem — it needs to be solved."
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadaminPulatov&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1a3a5c" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadaminPulatov&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=E8892B&area=true&area_color=1a3a5c&radius=8" />
 
 </div>
 
 ---
 
-## 💭 Dev Quote
+## 💭 Random Dev Quote
 
 <div align="center">
 
@@ -149,17 +291,23 @@ motto    : "If there is a problem — it needs to be solved."
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MuhammadaminPulatov/MuhammadaminPulatov/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadaminPulatov/MuhammadaminPulatov/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadaminPulatov/MuhammadaminPulatov/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/MuhammadaminPulatov/MuhammadaminPulatov/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
 <details>
-<summary>⚙️ Snake animatsiyasini yoqish uchun GitHub Action</summary>
+<summary><b>⚙️ Snake animatsiyasini yoqish — GitHub Action</b></summary>
 
-`.github/workflows/snake.yml` fayl yarating:
+<br/>
+
+`.github/workflows/snake.yml` fayl yarating, keyin **Actions** bo'limida `Run workflow` tugmasini bosing:
 
 ```yaml
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -188,4 +336,10 @@ jobs:
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" />
+<div align="center">
+
+**⭐ Loyihalarimni yoqtirgan bo'lsangiz — yulduzcha qoldiring!**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer" />
