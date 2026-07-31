@@ -16,6 +16,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Muhammadamin_Pulatov)
 [![Instagram CEO](https://img.shields.io/badge/Instagram%20CEO-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhammadamin.ceo)
 [![Instagram Dev](https://img.shields.io/badge/Instagram%20Dev-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/web.site.uz)
+[![YoshFounder](https://img.shields.io/badge/YoshFounder.uz-FF6B35?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yoshfounder.uz)
 
 </div>
 
