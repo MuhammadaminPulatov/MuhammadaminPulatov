@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=75&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Engineer+%F0%9F%A4%96;Startup+Founder+%26+CEO+%F0%9F%8F%A2;IoT+%26+Arduino+Enthusiast+%E2%9A%A1;6+Live+Startups+in+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;No+Fear.+No+Regret.+Just+Build.+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=75&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Engineer+%F0%9F%A4%96;Startup+Founder+%26+CEO+%F0%9F%8F%A2;IoT+%26+Arduino+Enthusiast+%E2%9A%A1;7+Live+Startups+in+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;yoshfounder.uz+%F0%9F%8C%B1;No+Fear.+No+Regret.+Just+Build.+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
@@ -29,7 +29,7 @@ name       :  Muhammadamin Pulatov
 location   :  Tashkent, Uzbekistan 🇺🇿
 role       :  Full-Stack Developer · AI/ML Engineer · CEO & Founder
 passion    :  Turning real problems into deployed products — fast
-startups   :  ArzUz · Darachi.app · POSSS · solving.uz · PDPEcosystem · VIPDev
+startups   :  ArzUz · Darachi.app · POSSS · YoshFounder · solving.uz · PDPEcosystem · VIPDev
 open_to    :  Collaboration · Consulting · Co-Founding
 philosophy :  "If there is a problem — it needs to be solved."
 superpower :  Web + AI + IoT under one roof ⚡
@@ -40,7 +40,7 @@ superpower :  Web + AI + IoT under one roof ⚡
 <td width="50%">
 
 - 🔭 **Building:** AI SaaS · EdTech · Community Platforms
-- 🏢 **CEO of:** 6 active startups in Uzbekistan
+- 🏢 **CEO of:** 7 active startups in Uzbekistan
 - 🤖 **AI Stack:** LangChain · YOLO · FastAPI · RAG
 - ⚡ **Hardware:** Arduino · IoT embedded systems
 
@@ -111,6 +111,21 @@ Sun'iy intellekt bilan kuchaytirilgan savdo nuqtasi boshqaruv tizimi. Dark mode,
 <tr>
 <td width="33%" valign="top">
 
+### 🌱 YoshFounder.uz
+> Young Founders Platform
+
+O'zbekistondagi yosh tadbirkorlar va startaperlar uchun ekotizim. Mentoring, networking, resurslar va startap tanlovi platformasi.
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+[![Live](https://img.shields.io/badge/🌐_Live-yoshfounder.uz-27ae60?style=flat-square)](https://yoshfounder.uz)
+[![Instagram](https://img.shields.io/badge/Instagram-FF6B35?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yoshfounder.uz)
+
+</td>
+<td width="33%" valign="top">
+
 ### 🧠 solving.uz
 > Online Exam Platform
 
@@ -121,20 +136,6 @@ Talabalar uchun zamonaviy onlayn imtihon va test platforma. Real-time natijalar,
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 [![Live](https://img.shields.io/badge/🌐_Live-solving.uz-e17055?style=flat-square)](https://solving.uz)
-
-</td>
-<td width="33%" valign="top">
-
-### 🎓 PDPEcosystem
-> EdTech Ecosystem
-
-PDP ta'lim ekotizimi — kurslar, sertifikatlar, hamjamiyat. O'zbekistonning yetakchi EdTech platformasi.
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![AI](https://img.shields.io/badge/AI-4285F4?style=flat-square&logo=google&logoColor=white)
-
-[![Live](https://img.shields.io/badge/🌐_Live-pdpecosystem.uz-00b894?style=flat-square)](https://pdpecosystem.uz)
 
 </td>
 <td width="33%" valign="top">
@@ -155,12 +156,13 @@ Premium IT yechimlar agentligi. Web, mobile, AI loyihalar uchun end-to-end devel
 </table>
 
 <details>
-<summary><b>📦 Boshqa loyihalar (+4)</b></summary>
+<summary><b>📦 Boshqa loyihalar (+5)</b></summary>
 
 <br/>
 
 | | Loyiha | Tavsif | Link |
 |:--:|--------|--------|------|
+| 🎓 | **PDPEcosystem** | EdTech ekotizimi — kurslar, sertifikatlar, hamjamiyat | [![Live](https://img.shields.io/badge/LIVE-00b894?style=flat-square)](https://pdpecosystem.uz) |
 | 📝 | **PDPEXAM** | Mock imtihon platformasi | [![Live](https://img.shields.io/badge/LIVE-e17055?style=flat-square)](https://pdpexam.uz) |
 | ✅ | **PDPTEST** | Online test xizmati | [![Live](https://img.shields.io/badge/LIVE-00cec9?style=flat-square)](https://pdptest.uz) |
 | 🎬 | **istream.uz** | Streaming platforma MVP→v2 | Next.js · Monorepo |
